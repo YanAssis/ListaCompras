@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445796810343",
+    "project_id": "projeto-yan-oguino0811",
+    "storage_bucket": "projeto-yan-oguino0811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445796810343:android:d7e27ba9a6cc61c0bedec2",
+        "android_client_info": {
+          "package_name": "com.example.aula_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445796810343-g89s1voa9np1tflto7soo68ptjnicrv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXLvWznSNV2QqViYstPDfVdMZ-pAhc6MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445796810343-g89s1voa9np1tflto7soo68ptjnicrv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
